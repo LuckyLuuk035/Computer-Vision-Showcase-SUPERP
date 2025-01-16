@@ -3,5 +3,9 @@
 
 ### Requirements
 - Zorg dat Anaconda met Jupyter Notebook is geinstalleerd.
-- Run `install_requirements.exe`.
+- Open cmd in de folder en download de requirements
+
+```bash
+python -m pip install -r requirements.txt
+```
 
