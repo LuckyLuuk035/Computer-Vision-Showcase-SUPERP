@@ -1,0 +1,2 @@
+default_name.pth - getraint op eigen data en normalize values
+ResNet50_best_val_score.pth - getraint op eigen data en normalize values
