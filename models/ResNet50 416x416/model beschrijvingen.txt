@@ -1,0 +1,4 @@
+Alle modellen zijn met een resolutie van 416x416 getraint.
+Het verschil van 'ResNet50_416_new_normalize.pth' en 'ResNet50_best_val_score_delta 0_005.pth'
+Is (Zoals je misschien kon raden) dat de normalize gemiddelde en standaardafwijking berekend met de eigen dataset.
+Verder is de delta voor early stopping van 0.01 verlaagd naar 0.005. 
